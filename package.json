@@ -36,6 +36,9 @@
     "bonjour",
     "avahi"
   ],
+  "browser": {
+    "dgram": "react-native-udp"
+  },
   "coordinates": [
     55.6465878,
     12.5492251
